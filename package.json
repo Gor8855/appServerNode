@@ -1,0 +1,27 @@
+{
+  "name": "appservernode",
+  "version": "1.0.0",
+  "description": "Node Test API using Postman Testing tool",
+  "main": "server.js",
+  "scripts": {
+    "test": "run test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gor8855/appServerNode.git"
+  },
+  "keywords": [
+    "gor8855"
+  ],
+  "author": "Gor Karapetyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gor8855/appServerNode/issues"
+  },
+  "homepage": "https://github.com/Gor8855/appServerNode#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
